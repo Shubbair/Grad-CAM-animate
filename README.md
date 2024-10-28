@@ -1,4 +1,6 @@
-# GradCAM for the Conv-Layers
+# GradCAM
 
-- Grad (Gradient-Weighted)
-- CAM (Class Activation MAP)
+> GradCAM (Gradient-Weighted Class Activation Mapping)
+
+Technique show heatmap of interest region that CNN model focuses on through conv-layer activations.
+
