@@ -7,19 +7,19 @@ Technique show heatmap of interest region that CNN model focuses on through conv
 **Cons** : works with All CNN architecture models
 
 Original Image :
-<img src="assets/1.png"/>
+![original](assets/1.png)
 
 Step 1 : Calculate the Grad-CAM
-<img src="assets/2.png"/>
+![raw-gradcam](assets/2.png)
 
 Step 2 : Normalize it
-<img src="assets/3.png"/>
+![normalized-gradcam](assets/3.png)
 
 Step 4 : Add it to the original image
-<img src="assets/4.png"/>
+![final-image](assets/4.png)
 
-Frames shows conv-layer in VGG-19 Model activation for the Dog image : 
-<img src="assets/grad-cam-animate.gif" />
+Frames shows conv-layer in VGG-19 Model activation for the Dog image :
+![animate-gradcam](assets/grad-cam-animate.gif)
 
 ## Reference
 
