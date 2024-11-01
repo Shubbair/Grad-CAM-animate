@@ -6,6 +6,9 @@ Technique show heatmap of interest region that CNN model focuses on through conv
 
 **Cons** : works with All CNN architecture models
 
+**Architecture**  
+![arch](assets/grad_cam.png)
+
 Original Image :  
 ![original](assets/1.png)
 
