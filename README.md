@@ -10,7 +10,8 @@ Technique show heatmap of interest region that CNN model focuses on through conv
 ![arch](assets/grad_cam.png)
 
 **Math**  
-| Equation 1      | Equation 2 |
+
+|Equation 1|Equation 2|
 | ----------- | ----------- |
 | ![original](assets/first_q.png) | ![original](assets/second_q.png)|
 
